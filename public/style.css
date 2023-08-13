@@ -1,0 +1,26 @@
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding: 2px 0px;  
+    border: 2px solid #4d0f2b;
+    background-color: #4d0f2b;
+}
+body{
+    background-color: #F11A7B;
+}
+.ba{
+    background-color: #4d0f2b;
+    border: 2px solid #4d0f2b ;
+}
+li{
+    list-style: none;
+    padding: 2px 2px;
+}
+input{
+    padding: 0.5rem;
+}
