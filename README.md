@@ -27,7 +27,7 @@ Welcome to my simple yet powerful Todo List App built using EJS and Node.js! ✨
 
 ## Contact Me 📬
 
-If you have any questions or suggestions, feel free to contact me at sujeet17052003@gmail.com.
+If you have any questions or suggestions, feel free to contact me at sujeetpawar17@gmail.com.
 
 🌟 Star this repository if you found it helpful! 🌟
 
